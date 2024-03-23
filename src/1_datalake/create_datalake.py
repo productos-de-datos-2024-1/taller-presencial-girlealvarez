@@ -18,7 +18,6 @@ def get_datalake_dirs():
         dirs = [dir.strip() for dir in dirs]
     return dirs
 
-
 def create_datalake(dirs):
     """Creates datalake in the main directory.
 
@@ -29,11 +28,9 @@ def create_datalake(dirs):
         None
 
     """
-
     for path in dirs:
         if not os.path.exists(path):
             os.makedirs(path)
-
 
 def main():
     """Orchestrates the creation of the datalake"""
