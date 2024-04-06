@@ -1,0 +1,48 @@
+2024-04-06 07:31:26,988:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:31:26,988:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:31:26,989:INFO: * Restarting with stat
+2024-04-06 07:31:27,648:WARNING: * Debugger is active!
+2024-04-06 07:31:27,651:INFO: * Debugger PIN: 325-479-757
+2024-04-06 07:31:41,991:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:31:41,991:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:31:41,992:INFO: * Restarting with stat
+2024-04-06 07:31:42,599:WARNING: * Debugger is active!
+2024-04-06 07:31:42,600:INFO: * Debugger PIN: 325-479-757
+2024-04-06 07:33:30,537:INFO:127.0.0.1 - - [06/Apr/2024 07:33:30] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:33:30,732:INFO:127.0.0.1 - - [06/Apr/2024 07:33:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:55:52,485:INFO:127.0.0.1 - - [06/Apr/2024 07:55:52] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:58:32,184:INFO: * Detected change in 'C:\\PD_Taller2\\taller-presencial-girlealvarez\\src\\6b_api_server\\client_examples.py', reloading
+2024-04-06 07:58:32,370:INFO: * Restarting with stat
+2024-04-06 07:58:33,579:WARNING: * Debugger is active!
+2024-04-06 07:58:33,580:INFO: * Debugger PIN: 325-479-757
+2024-04-06 08:12:34,450:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:12:36,891:INFO:Prediction: [1414841.37460304]
+2024-04-06 08:12:36,892:INFO:127.0.0.1 - - [06/Apr/2024 08:12:36] "POST / HTTP/1.1" 200 -
+2024-04-06 08:13:04,264:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:13:04,268:INFO:Prediction: [1414841.37460304]
+2024-04-06 08:13:04,269:INFO:127.0.0.1 - - [06/Apr/2024 08:13:04] "POST / HTTP/1.1" 200 -
+2024-04-06 08:13:50,799:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:13:50,804:INFO:Prediction: [1414841.37460304]
+2024-04-06 08:13:50,805:INFO:127.0.0.1 - - [06/Apr/2024 08:13:50] "POST / HTTP/1.1" 200 -
+2024-04-06 08:23:03,422:INFO: * Detected change in 'C:\\PD_Taller2\\taller-presencial-girlealvarez\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:23:03,701:INFO: * Restarting with stat
+2024-04-06 08:23:04,828:WARNING: * Debugger is active!
+2024-04-06 08:23:04,829:INFO: * Debugger PIN: 325-479-757
+2024-04-06 08:23:08,681:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:23:09,265:INFO:Prediction: [1414841.37460304]
+2024-04-06 08:23:09,265:INFO:127.0.0.1 - - [06/Apr/2024 08:23:09] "POST / HTTP/1.1" 200 -
+2024-04-06 09:17:36,395:INFO:127.0.0.1 - - [06/Apr/2024 09:17:36] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:21:40,170:INFO:User values: {'bedrooms': [2], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:21:40,227:INFO:Prediction: [235819.95845721]
+2024-04-06 09:21:40,230:INFO:127.0.0.1 - - [06/Apr/2024 09:21:40] "POST / HTTP/1.1" 200 -
+2024-04-06 09:21:51,090:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:21:51,094:INFO:Prediction: [208349.62583924]
+2024-04-06 09:21:51,095:INFO:127.0.0.1 - - [06/Apr/2024 09:21:51] "POST / HTTP/1.1" 200 -
+2024-04-06 09:21:57,795:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:21:57,799:INFO:Prediction: [160924.29243095]
+2024-04-06 09:21:57,801:INFO:127.0.0.1 - - [06/Apr/2024 09:21:57] "POST / HTTP/1.1" 200 -
+2024-04-06 09:28:28,143:INFO:User values: {'bedrooms': [4], 'bathrooms': [2], 'sqft_living': [12300], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:28:28,146:INFO:Prediction: [3236302.80965398]
+2024-04-06 09:28:28,147:INFO:127.0.0.1 - - [06/Apr/2024 09:28:28] "POST / HTTP/1.1" 200 -
